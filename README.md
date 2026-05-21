@@ -62,7 +62,7 @@ jupyter notebook alzheimers_mri_classifier.ipynb
 ```
 
 ## Tech Stack
-- Python 3.10
+- Python 3.11
 - TensorFlow / Keras
 - EfficientNetB0 (Transfer Learning)
 - Grad-CAM (Explainability)
